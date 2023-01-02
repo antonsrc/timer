@@ -1,3 +1,5 @@
+# timer
+
 import msvcrt
 import time
 import datetime
